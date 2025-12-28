@@ -1,7 +1,7 @@
 # 📚 SIBUKA - Sistem Informasi Buku Kampus
 
-**Tugas Besar Semester 4 - Pemrograman Mobile 1**  
-Kelompok 3
+**UAS - Pemrograman Mobile**  
+Kelompok 1
 
 ## 👥 Anggota Kelompok
 - **Tsania Alwidad R.N** - 24050974125  
