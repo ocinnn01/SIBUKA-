@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Modern Primary Colors - Deep Blue Gradient Theme -->
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryDark">#0D47A1</color>
+    <color name="colorPrimaryVariant">#0D47A1</color>
+    <color name="colorPrimaryLight">#42A5F5</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorAccent">#FF5722</color>
+
+    <!-- Gradient Colors for Modern Appeal -->
+    <color name="gradient_start">#1565C0</color>
+    <color name="gradient_center">#1976D2</color>
+    <color name="gradient_end">#42A5F5</color>
+
+    <!-- Secondary Colors - Warm Orange Accent -->
+    <color name="colorSecondary">#FF7043</color>
+    <color name="colorSecondaryVariant">#F4511E</color>
+    <color name="colorSecondaryLight">#FFAB91</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+
+    <!-- Background Colors - Modern Light Theme -->
+    <color name="background">#FAFAFA</color>
+    <color name="background_light">#FAFAFA</color>
+    <color name="background_dark">#F5F5F5</color>
+    <color name="colorBackground">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnBackground">#212121</color>
+    <color name="colorOnSurface">#212121</color>
+
+    <!-- Card Colors with Subtle Shadows -->
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="cardElevation">#08000000</color>
+    <color name="cardBorder">#E3F2FD</color>
+
+    <!-- Error Colors -->
+    <color name="colorError">#E53935</color>
+    <color name="colorOnError">#FFFFFF</color>
+
+    <!-- Status Colors - Enhanced -->
+    <color name="success">#43A047</color>
+    <color name="success_light">#C8E6C9</color>
+    <color name="warning">#FB8C00</color>
+    <color name="warning_light">#FFE0B2</color>
+    <color name="danger">#E53935</color>
+    <color name="danger_light">#FFCDD2</color>
+    <color name="info">#039BE5</color>
+    <color name="info_light">#B3E5FC</color>
+
+    <!-- Text Colors - Enhanced Hierarchy -->
+    <color name="textPrimary">#212121</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_tertiary">#9E9E9E</color>
+    <color name="textHint">#BDBDBD</color>
+    <color name="text_hint">#BDBDBD</color>
+    <color name="text_disabled">#E0E0E0</color>
+
+    <!-- Interactive Colors -->
+    <color name="ripple_color">#201565C0</color>
+    <color name="button_pressed">#0D47A1</color>
+    <color name="button_disabled">#E0E0E0</color>
+
+    <!-- Divider and Border Colors -->
+    <color name="divider">#E0E0E0</color>
+    <color name="divider_light">#F5F5F5</color>
+    <color name="border_light">#EEEEEE</color>
+
+    <!-- Shadow Colors -->
+    <color name="shadow_light">#08000000</color>
+    <color name="shadow_medium">#12000000</color>
+    <color name="shadow_dark">#20000000</color>
+
+    <!-- Utility Colors -->
+    <color name="light_gray">#F5F5F5</color>
+    <color name="medium_gray">#E0E0E0</color>
+    <color name="dark_gray">#757575</color>
+
+    <!-- Material Design Enhancement -->
+    <color name="blue_50">#E3F2FD</color>
+    <color name="blue_100">#BBDEFB</color>
+    <color name="blue_200">#90CAF9</color>
+    <color name="blue_300">#64B5F6</color>
+    <color name="blue_400">#42A5F5</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="blue_600">#1E88E5</color>
+    <color name="blue_700">#1976D2</color>
+    <color name="blue_800">#1565C0</color>
+    <color name="blue_900">#0D47A1</color>
+
+    <!-- Orange Accent Variants -->
+    <color name="orange_50">#FFF3E0</color>
+    <color name="orange_100">#FFE0B2</color>
+    <color name="orange_200">#FFCC80</color>
+    <color name="orange_300">#FFB74D</color>
+    <color name="orange_400">#FFA726</color>
+    <color name="orange_500">#FF9800</color>
+    <color name="orange_600">#FB8C00</color>
+    <color name="orange_700">#F57C00</color>
+
+    <!-- Red Color Variants -->
+    <color name="red_50">#FFEBEE</color>
+    <color name="red_100">#FFCDD2</color>
+    <color name="red_200">#EF9A9A</color>
+    <color name="red_300">#E57373</color>
+    <color name="red_400">#EF5350</color>
+    <color name="red_500">#F44336</color>
+    <color name="red_600">#E53935</color>
+    <color name="red_700">#D32F2F</color>
+    <color name="red_800">#C62828</color>
+    <color name="red_900">#B71C1C</color>
+
+    <!-- Green Color Variants -->
+    <color name="green_50">#E8F5E8</color>
+    <color name="green_100">#C8E6C9</color>
+    <color name="green_200">#A5D6A7</color>
+    <color name="green_300">#81C784</color>
+    <color name="green_400">#66BB6A</color>
+    <color name="green_500">#4CAF50</color>
+    <color name="green_600">#43A047</color>
+    <color name="green_700">#388E3C</color>
+    <color name="green_800">#2E7D32</color>
+    <color name="green_900">#1B5E20</color>
+
+</resources>

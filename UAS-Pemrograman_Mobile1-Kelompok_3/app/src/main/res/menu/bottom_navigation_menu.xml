@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_buku"
+        android:icon="@drawable/ic_book"
+        android:title="Buku" />
+
+    <item
+        android:id="@+id/nav_peminjam"
+        android:icon="@drawable/ic_people"
+        android:title="Peminjam" />
+
+    <item
+        android:id="@+id/nav_pinjam"
+        android:icon="@drawable/ic_add_circle"
+        android:title="Pinjam" />
+
+    <item
+        android:id="@+id/nav_notifikasi"
+        android:icon="@drawable/ic_notifications"
+        android:title="Notifikasi" />
+
+    <item
+        android:id="@+id/nav_profil"
+        android:icon="@drawable/ic_person"
+        android:title="Profil" />
+</menu>

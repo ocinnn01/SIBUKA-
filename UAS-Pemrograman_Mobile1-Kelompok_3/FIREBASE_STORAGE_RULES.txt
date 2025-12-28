@@ -1,0 +1,38 @@
+// Firebase Storage Security Rules untuk SIBUKA
+// Copy rules ini ke Firebase Console > Storage > Rules
+
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+    // Rules untuk folder book_covers - akses untuk authenticated users
+    match /book_covers/{imageId} {
+      allow read: if true; // Semua orang bisa membaca gambar buku
+      allow write: if request.auth != null; // Hanya user yang login bisa upload
+    }
+
+    // Rules untuk folder lainnya
+    match /{allPaths=**} {
+      allow read: if true;
+      allow write: if request.auth != null;
+    }
+  }
+}
+
+// CATATAN PENTING:
+// 1. Pastikan user sudah login sebelum mengupload gambar
+// 2. Folder book_covers akan dibuat otomatis saat upload pertama kali
+// 3. Jika masih error, coba gunakan rules yang lebih permissive:
+
+// ALTERNATIVE RULES (lebih permissive untuk testing):
+/*
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+    match /{allPaths=**} {
+      allow read, write: if true;
+    }
+  }
+}
+*/
+
+// Setelah testing berhasil, kembalikan ke rules yang lebih aman di atas
