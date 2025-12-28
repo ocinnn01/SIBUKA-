@@ -14,7 +14,7 @@ Kelompok 1
 
 SIBUKA (**Sistem Informasi Buku Kampus**) merupakan aplikasi mobile berbasis Android yang dirancang khusus untuk membantu pengelolaan data buku dan sistem peminjaman buku pada perpustakaan kampus. Aplikasi ini ditujukan **hanya untuk digunakan oleh admin**, sehingga seluruh fitur dan akses ditujukan untuk pengelolaan internal perpustakaan.
 
-Aplikasi ini dikembangkan sebagai bagian dari **Tugas Besar Mata Kuliah Pemrograman Mobile 1**, dengan tujuan menerapkan konsep-konsep pengembangan aplikasi mobile modern menggunakan Android Studio dan Firebase.
+Aplikasi ini dikembangkan sebagai bagian dari **UAS Pemrograman Mobile**, dengan tujuan menerapkan konsep-konsep pengembangan aplikasi mobile modern menggunakan Android Studio dan Firebase.
 
 ---
 
