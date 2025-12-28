@@ -4,9 +4,9 @@
 Kelompok 3
 
 ## 👥 Anggota Kelompok
-- **Haris Nurpazri** - 23552011143  
-- **Ginda Azahra** - 23552011281  
-- **Salsa Bila Syazwani** - 23552011402  
+- **Tsania Alwidad R.N** - 24050974125  
+- **Novi Ardiningtyas** - 24050974106  
+- **Dimas Bagus Prasetio** - 24050974119  
 
 ---
 
