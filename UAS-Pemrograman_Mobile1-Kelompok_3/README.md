@@ -1,12 +1,12 @@
 # 📚 SIBUKA - Sistem Informasi Buku Kampus
 
-**Tugas Besar Semester 4 - Pemrograman Mobile 1**  
-Kelompok 3
+**Project Akhir - Pemrograman Mobile**  
+Kelompok 1
 
 ## 👥 Anggota Kelompok
-- **Haris Nurpazri** - 23552011143  
-- **Ginda Azahra** - 23552011281  
-- **Salsa Bila Syazwani** - 23552011402  
+- **Novi Ardiningtyas** - 24050974106  
+- **Dimas Bagus Prasetio** - 24050974119 
+- **Tsania Alwidad Ramdhan Naufali** - 24050974125  
 
 ---
 
@@ -14,7 +14,7 @@ Kelompok 3
 
 SIBUKA (**Sistem Informasi Buku Kampus**) merupakan aplikasi mobile berbasis Android yang dirancang khusus untuk membantu pengelolaan data buku dan sistem peminjaman buku pada perpustakaan kampus. Aplikasi ini ditujukan **hanya untuk digunakan oleh admin**, sehingga seluruh fitur dan akses ditujukan untuk pengelolaan internal perpustakaan.
 
-Aplikasi ini dikembangkan sebagai bagian dari **Tugas Besar Mata Kuliah Pemrograman Mobile 1**, dengan tujuan menerapkan konsep-konsep pengembangan aplikasi mobile modern menggunakan Android Studio dan Firebase.
+Aplikasi ini dikembangkan sebagai bagian dari **Project Akhir Mata Kuliah Pemrograman Mobile**, dengan tujuan menerapkan konsep-konsep pengembangan aplikasi mobile modern menggunakan Android Studio dan Firebase.
 
 ---
 
